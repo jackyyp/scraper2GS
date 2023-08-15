@@ -1,0 +1,9 @@
+#DONT expose the private key
+client_key.json
+/__pycache__
+
+#virtual env config
+/bin
+/include
+/lib
+pyvenv.cfg
