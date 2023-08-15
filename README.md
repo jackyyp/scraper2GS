@@ -1,4 +1,4 @@
-# python2sheet
+# Scraper2GS (Python web scraper data to Google Sheet)
 
 ### Please do the following
 
