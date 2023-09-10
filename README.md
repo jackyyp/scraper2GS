@@ -1,8 +1,8 @@
-# Scraper2GS (Python web scraper data to Google Sheet)
+# Scraper2GS (web scrape to Google Sheet)
 
 ### Please do the following
 
-(first create a virtual env if you want)
+(First create a virtual env if you want)
 
 ```
 pip install -r requirements.txt
